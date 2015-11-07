@@ -161,7 +161,7 @@ li#f-winter {
 	margin-bottom: 0.5em;
 }
 
-@media screen and (min-width: 521px) and (max-width: 799px) {/*321px*/
+@media screen and (min-width: 321px) and (max-width: 799px) {
   .figure{
     margin: 0 2.5%;
     width: 45%;
@@ -173,7 +173,7 @@ li#f-winter {
   }
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 320px) {
   .figure{
     clear: both;
     margin: 0 5% 1.5em 5%;
